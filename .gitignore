@@ -89,7 +89,7 @@ webpack.config.js
 webpack.config.bak.js
 .gitignore
 .babelrc
-package.json
+
 package.bak.json
 config.json
 config.js
